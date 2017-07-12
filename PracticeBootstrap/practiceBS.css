@@ -1,0 +1,35 @@
+.jumbotron-custom{
+    background-image: url(https://blog.newrelic.com/wp-content/uploads/statue-of-liberty-banner.jpg) !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container-0{
+    background-color:#eeeeee;
+    
+}
+.container-1{
+    color:white;
+    background-color: #757575;
+    font-family: cursive;
+}
+
+.container-2{
+    color:white;
+    background-color: #ff1744;
+    font-family: "sans-serif";
+}
+
+
+.container-3{
+    color:white;
+    background-color: #448aff;
+    font-family: "Times New Roman"
+    
+}
+.container-4{
+    background-color: darkslategray;
+    font-family: fantasy;
+    color: white;
+    padding: 50px;
+}
